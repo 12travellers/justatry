@@ -1,1 +1,1 @@
-cout<<a;
+cout<<a;cout<<b;
